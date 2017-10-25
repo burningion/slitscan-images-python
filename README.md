@@ -1,6 +1,6 @@
 # Slit Scan Images in Python with MoviePy and Pillow
 
-This is the companion repository for the blog post at makeartwithpython.com.
+This is the companion repository for the blog post at [makeartwithpython.com](https://www.makeartwithpython.com/blog/creating-slit-scan-images-in-python-and-moviepy/).
 
 ## Usage
 
